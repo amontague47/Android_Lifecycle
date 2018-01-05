@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="default_name">Default Name</string>
+    <string name="change_display">Change Display</string>
+    <string name="say_hi_button_label">Say Hi</string>
+    <string name="hello_chicago">Hello Chicago!</string>
+    <string name="greeting">Hello,%s!</string>
+</resources>
